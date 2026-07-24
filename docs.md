@@ -4,4 +4,6 @@ Quick Start Guide
 
 Description
 
-gddgjjfhffhi
+This documentation describes an exercise about GitHub
+
+Note that this is only for demo purposes.
