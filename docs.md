@@ -1,5 +1,7 @@
 Release notes: This feature explains about the new changes.
 
+Note that this toothbrush is totally safe to use for children, adults, pets, and wildlife
+
 Quick Start Guide
 
 Description
