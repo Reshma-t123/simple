@@ -1,4 +1,8 @@
+
 Release notes: Karel release notes: This documentation describes how to use the Pavel automated toothbrush.
+=======
+Karel Release notes: This feature explains about the new changes.
+
 
 Note that this toothbrush is totally safe to use for children, adults, pets, wildlife, and trees
 
