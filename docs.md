@@ -13,3 +13,5 @@ Description
 This documentation describes an exercise about GitHub
 
 Note that this is only for demo purposes.
+
+Turnon the toothbrush using green button.
