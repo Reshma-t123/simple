@@ -15,4 +15,4 @@ This documentation describes an exercise about GitHub
 
 Note that this is only for demo purposes.
 
-The toothbrush requires [need info here].”
+This is for pull-request
