@@ -9,7 +9,7 @@ Note that this toothbrush is totally safe to use for children, adults, pets, wil
 
 Quick Start Guide
 
-Description
+Description and special
 
 This documentation describes an exercise about GitHub
 
